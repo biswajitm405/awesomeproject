@@ -5,7 +5,7 @@ const Home =() =>{
     return (
         <>
             <h1>This is Home page</h1>
-           <NavLink to="/help"> <button className="btn btn-success">hello</button></NavLink>
+           {/* <NavLink to="/help"> <button className="btn btn-success">hello</button></NavLink> */}
 
         </>
     )
